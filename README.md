@@ -5,7 +5,7 @@ Scaffold for landing pages
 This is just the file structure to start a project with all the technologies below.
 
 ## technologies :
-- HTML -
+- HTML
 - CSS
 - SASS
 - JAVASCRIPT or JQUERY
