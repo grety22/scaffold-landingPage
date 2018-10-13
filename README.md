@@ -1,5 +1,5 @@
 # scaffold-landingPage
-Scaffold for landing pages 
+Scaffold for landing pages October/2018
 
 ## description :
 This is just the file structure to start a project with all the technologies below.
