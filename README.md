@@ -11,4 +11,5 @@ This is just the file structure to start a project with all the technologies bel
 - JAVASCRIPT or JQUERY
 - Bootstrap 4.1.3
 - Fontawesome 5.4.1
+- Material Design Lite
 
